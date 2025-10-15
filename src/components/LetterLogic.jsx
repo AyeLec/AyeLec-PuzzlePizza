@@ -3,7 +3,7 @@ const ABC = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','Ñ','O','P
 
 const MAP = {
   A:'A', B:'N', D:'H', E:'D', G:'U', H:'J', I:'G',
-  L:'P', M:'M', N:'L', O:'S', R:'D', S:'Ñ', U:'F', Y:'T'
+  L:'P', M:'M', N:'L', O:'S', R:'O', S:'Ñ', U:'F', Y:'T'
 };
 
 export const transformar = (texto) =>
