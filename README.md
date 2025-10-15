@@ -1,4 +1,4 @@
-# 🍕 Puzzle de las Letras Locas
+# 🤪🔠 Puzzle de las Letras Locas
 
 ¡Hola! 👋  
 Este pequeño proyecto nació de un **reto de AyHungry** — un puzzle misterioso donde las letras deciden rebelarse un poco 🤪.  
